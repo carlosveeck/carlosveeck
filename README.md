@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames, anime and basketball
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me...
+- 📫 Instagram: @caiqueveeck_
 
 <!---
 carlosveeck/carlosveeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
