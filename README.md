@@ -1,15 +1,15 @@
 <h1 align="center">Olá, meu nome é Carlos</h1>
 <h3 align="center">Computer Science Student | Aspiring Data & Network Analyst</h3>
 
-- Atualmente estudando **Ciência da Computação na UFPE**
+👨‍🎓 Atualmente estudando **Ciência da Computação na UFPE**
 
-- Atualmente aprendendo **Keras, Pandas e GoLang**
+📕 Atualmente aprendendo **Keras, Pandas e GoLang**
 
-- Trabalhando e buscando colaborar em **Projetos de ML, Análise de dados e Backend Development**
+💻 Trabalhando e buscando colaborar em **Projetos de ML, Análise de dados e Backend Development**
 
-- Portfolio [https://www.linkedin.com/in/carlos-veeck-96086a149/](https://www.linkedin.com/in/carlos-veeck-96086a149/)
+📃 Portfolio: [https://www.linkedin.com/in/carlos-veeck-96086a149/](https://www.linkedin.com/in/carlos-veeck-96086a149/)
 
-- Interesses **Jogos, Música e Estudos**
+🕹️ Interesses **Jogos, Música e Estudos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
