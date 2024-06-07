@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Carlos</h1>
+<h1 align="center">Olá! meu nome é Carlos 👨‍💻</h1>
 <h3 align="center">Computer Science Student | Aspiring Data & Network Analyst</h3>
 
 👨‍🎓 Atualmente estudando **Ciência da Computação na UFPE**
