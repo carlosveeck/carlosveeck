@@ -9,7 +9,7 @@
 
 📃 Portfolio: [https://www.linkedin.com/in/carlos-veeck-96086a149/](https://www.linkedin.com/in/carlos-veeck-96086a149/)
 
-🕹️ Interesses **Jogos, Música e Estudos**
+🕹️ Interesses: **Jogos, Música e Estudos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
