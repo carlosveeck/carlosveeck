@@ -7,7 +7,9 @@
 
 💻 Trabalhando e buscando colaborar em **Projetos de ML, Análise de dados e Backend Development**
 
-📃 Portfolio: [https://www.linkedin.com/in/carlos-veeck-96086a149/](https://www.linkedin.com/in/carlos-veeck-96086a149/)
+📃 Linkedin: [https://www.linkedin.com/in/carlos-veeck-96086a149/](https://www.linkedin.com/in/carlos-veeck-96086a149/)
+
+📃 Lattes: [http://lattes.cnpq.br/5917901779550467](http://lattes.cnpq.br/5917901779550467)
 
 🕹️ Interesses: **Jogos, Música e Estudos**
 
