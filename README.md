@@ -11,7 +11,7 @@
 
 📃 Lattes: [http://lattes.cnpq.br/5917901779550467](http://lattes.cnpq.br/5917901779550467)
 
-🕹️ Interesses: **Jogos, Música e Estudos**
+🕹️ Interesses: **Jogos, Música e Esportes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
